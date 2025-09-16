@@ -7,12 +7,13 @@
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
 - 1/2 tsp ground cinnamon
-- ...
+- 1 apple
+- 
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, and vanilla extract.
-3. ...
+3. add the apple into it.
 
 ## Additional Directions by Bob:
 4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavour.
