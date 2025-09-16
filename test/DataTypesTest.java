@@ -18,7 +18,7 @@ public class DataTypesTest {
         long x = 500_000_500_000L;
         int[] numbers = new int[1_000_000];
         for (int i = 1; i <= 1_000_000; i++) {
-            numbers[i-1] = i;
+            numbers[i - 1] = i;
         }
         assertEquals(x, DataTypes.sum(numbers), "sum from 1 to 1 million should be " + x);
     }
